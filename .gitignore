@@ -1,0 +1,19 @@
+# KiCad auto-save and backup files
+*-backups/
+_autosave-*
+*.lck
+fp-info-cache
+
+# KiCad local settings (not project-specific)
+*.kicad_prl
+
+# Claude Code local settings
+.claude/
+
+# Reference datasheets (large public files — links in README)
+Reference/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
