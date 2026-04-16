@@ -12,7 +12,16 @@ ESP32_custom/       # KiCad schematic and PCB design files
   ├── *.kicad_dru   # Design rules
   └── Gerber File/  # Manufacturing files (Gerber + drill)
 Bill of Materials/  # BOM in CSV and XLSX formats
+demo/               # 3D board view video and PCB renders
 ```
+
+## Demo
+
+| Top View | Bottom View |
+|----------|-------------|
+| ![Top View](demo/Top%20View.png) | ![Bottom View](demo/Bottom%20View.png) |
+
+A 3D walkthrough of the board is available in [demo/3D view of the Board.mp4](demo/3D%20view%20of%20the%20Board.mp4).
 
 ## Reference Datasheets
 
